@@ -1,0 +1,41 @@
+body {
+  background-color: #2d2d2d;
+  color: white;
+  font-family: "Titillium Web", sans-serif; }
+
+.menu {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 900;
+  font-size: .65rem; }
+
+.menu a {
+  color: #ffffff;
+  padding: 0.7rem 1rem; }
+
+h2 {
+  font-family: "Russo One", sans-serif;
+  line-height: 3;
+  font-size: 1.2rem; }
+
+h1 {
+  font-family: "Titillium Web", sans-serif;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 900; }
+
+h3 {
+  font-family: "Titillium Web", sans-serif;
+  font-size: 1.25rem; }
+
+p {
+  font-size: .90rem; }
+
+.panel {
+  padding: 8rem 0;
+  height: 100vh; }
+
+.panelPEVSNE {
+  padding: 3rem; }
+
+/*# sourceMappingURL=app.css.map */
